@@ -6,7 +6,7 @@ Im ersten Schritt wird das ``Raspberry Pi OS`` beschrieben und genutzt.
 ## Raspberry Pi OS
 1. [Raspberry Pi Imager](https://www.raspberrypi.org/software/) laden und installieren
 1. Image auf eine SD-Karte mit dem Raspberry Pi Imager übertragen
-   1. erstmal ohne Desktop anfangen
+   1. erstmal ohne Desktop anfangen\
    ![Raspberry Pi OS Light](pics/raspberry-os-light.png)
 1. In der Boot-Partition die leere Datei ``ssh`` im root-Verzeichnis ablegen. Damit ist es möglich sich per ssh zum Pi zu verbinden.
 1. In der Boot-Partition die Datei ``wpa_supplicant.conf`` im root-Verzeichnis ablegen.\
@@ -28,7 +28,7 @@ network={
    1. ``sudo apt-get update``
    1. ``sudo apt-get upgrade -y``
 1. und den Pi konfigurieren
-   1. ``sudo raspi-config``
+   1. ``sudo raspi-config``\
    ![Raspberry Pi Config](pics/raspi-config.png)
        1. vollen speicherplatz der SD-Karte nutzen (6 -> A1)
        1. Sprache (5 -> L1)
