@@ -34,3 +34,12 @@ einer Grafana Instanz, welche Metriken an einem Punkt visualisieren kann.
 
 ### eigene Doku
 [Installation](grafana.md)
+
+## InfluxDB
+.....
+
+### genutzte Doku
+-> [Step 2: Install Influxdb](https://simonhearne.com/2020/pi-influx-grafana/#step-2-install-influxdb)
+
+### eigene Doku
+[Installation](influxdb.md)
