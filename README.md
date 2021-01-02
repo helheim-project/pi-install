@@ -35,3 +35,11 @@ network={
        1. Zeitzone (5 -> L2)
        1. Passwort von User `pi` ändern (1 -> S3)
        1. Hostname ändern, wenn mehrere Raspberry Pi's im Einsatz sind (1 -> S4)
+
+## weitere Pakete installieren
+Im Internet sind genügend Informationen welche Software wie auf dem PI installiert werden kann.\
+Die hier zusammengestellte Liste ergibt sich aus den vorhandenen Interessen und Erfahrungen auf anderen Plattformen zu unterschiedlichen Themen.
+
+Es geht hier also nicht um eine Vollständigkeit, sondern ehr um den Spass. 
+
+### [Metriken zum PI](docs/metrics/README.md)
