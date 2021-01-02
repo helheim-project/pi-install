@@ -35,6 +35,8 @@ WantedBy=multi-user.target
 - ``sudo systemctl status prometheus.service``
 
 ## Node-Exporter aufnehmen
+- prometheus.yml anpassen
+
 ````yaml
 ...
 scrape_configs:
