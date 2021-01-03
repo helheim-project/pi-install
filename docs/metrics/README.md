@@ -36,7 +36,8 @@ einer Grafana Instanz, welche Metriken an einem Punkt visualisieren kann.
 [Installation](grafana.md)
 
 ## InfluxDB
-.....
+Für den Fall, dass man selbständig beliebige Metriken schreiben möchte, ist InfluxDB 
+eine sehr gute Wahl.
 
 ### genutzte Doku
 -> [Step 2: Install Influxdb](https://simonhearne.com/2020/pi-influx-grafana/#step-2-install-influxdb)
